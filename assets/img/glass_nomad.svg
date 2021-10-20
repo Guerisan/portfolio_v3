@@ -1,0 +1,135 @@
+<svg class="digital_nomad" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 1920 1440">
+    <defs>
+        <style>
+            .cls-1 {
+            fill: none;
+            }
+
+            .cls-2 {
+            fill: #4a5c39;
+            }
+
+            .cls-3 {
+            clip-path: url(#clip-path);
+            }
+
+            .cls-4 {
+            clip-path: url(#clip-path-2);
+            }
+
+            .cls-5 {
+            clip-path: url(#clip-path-3);
+            }
+
+            .cls-6 {
+            clip-path: url(#clip-path-4);
+            }
+
+            .cls-7 {
+            clip-path: url(#clip-path-5);
+            }
+
+            .cls-8 {
+            clip-path: url(#clip-path-6);
+            }
+
+            .cls-9 {
+            clip-path: url(#clip-path-7);
+            }
+
+            .cls-10 {
+            clip-path: url(#clip-path-8);
+            }
+
+            .cls-11 {
+            clip-path: url(#clip-path-9);
+            }
+
+            .cls-12 {
+            clip-path: url(#clip-path-10);
+            }
+
+            .cls-13 {
+            clip-path: url(#clip-path-11);
+            }
+        </style>
+        <clipPath id="clip-path">
+            <polygon class="cls-1" points="469.32 1066.98 585.83 1147.24 75.79 1149.83 469.32 1066.98"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <polygon class="cls-1" points="0 1035.89 461.21 859.12 300.69 1071.42 0 1035.89"/>
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <polygon class="cls-1" points="462.47 997.15 494.15 813.7 747.88 1199.47 462.47 997.15"/>
+        </clipPath>
+        <clipPath id="clip-path-4">
+            <polygon class="cls-1" points="800.04 877.81 537.48 725.23 933.38 648.25 800.04 877.81"/>
+        </clipPath>
+        <clipPath id="clip-path-5">
+            <polygon class="cls-1" points="1476.36 1007.03 1716.65 704.75 1923 869.08 1476.36 1007.03"/>
+        </clipPath>
+        <clipPath id="clip-path-6">
+            <polygon class="cls-1" points="1325.15 483.29 1789.77 119.02 1771.79 345.35 1325.15 483.29"/>
+        </clipPath>
+        <clipPath id="clip-path-7">
+            <polygon class="cls-1" points="1248.17 855.82 1686.29 692.14 1306.06 1097.57 1248.17 855.82"/>
+        </clipPath>
+        <clipPath id="clip-path-8">
+            <polygon class="cls-1" points="1242.67 859.94 1297.65 1097.75 782.17 1034.52 1242.67 859.94"/>
+        </clipPath>
+        <clipPath id="clip-path-9">
+            <polygon class="cls-1" points="925.13 594.64 1692.61 677.16 1308.65 826.95 925.13 594.64"/>
+        </clipPath>
+        <clipPath id="clip-path-10">
+            <polygon class="cls-1" points="941.62 587.76 1766.2 402.95 1749.5 678.38 941.62 587.76"/>
+        </clipPath>
+        <clipPath id="clip-path-11">
+            <polygon class="cls-1" points="963.62 626.25 1300.4 829.7 741.49 1045.18 963.62 626.25"/>
+        </clipPath>
+        <image id="image" width="1920" height="1440" xlink:href="../assets/img/digital_nomad.jpg"/>
+    </defs>
+    <g id="Calque_2">
+        <g class="shards">
+            <polygon style="--order: 12" class="cls-2"
+                     points="808.86 904.92 734.24 1011.32 692.11 921.22 808.86 904.92"/>
+            <polygon style="--order: 13" class="cls-2"
+                     points="1132.79 1110.12 1004.29 1148.78 940.49 1089.05 1132.79 1110.12"/>
+            <polygon style="--order: 14" class="cls-2"
+                     points="1119.39 502.98 1385.59 368.64 1295.65 468.92 1119.39 502.98"/>
+            <g class="cls-3 glass_pic" style="--order: 1">
+                <use xlink:href="#image"/>
+            </g>
+            <g class="cls-4 glass_pic" style="--order: 2">
+                <use xlink:href="#image"/>
+            </g>
+            <g class="cls-5 glass_pic" style="--order: 3">
+                <use xlink:href="#image"/>
+            </g>
+            <g class="cls-6 glass_pic" style="--order: 4">
+                <use xlink:href="#image"/>
+            </g>
+            <g class="cls-7 glass_pic" style="--order: 5">
+                <use xlink:href="#image"/>
+            </g>
+            <g class="cls-8 glass_pic" style="--order: 6">
+                <use xlink:href="#image"/>
+            </g>
+            <g class="cls-9 glass_pic" style="--order: 7">
+                <use xlink:href="#image"/>
+            </g>
+            <g class="cls-10 glass_pic" style="--order: 8">
+                <use xlink:href="#image"/>
+            </g>
+            <g class="cls-11 glass_pic" style="--order: 9">
+                <use xlink:href="#image"/>
+            </g>
+            <g class="cls-12 glass_pic" style="--order: 10">
+                <use xlink:href="#image"/>
+            </g>
+            <g class="cls-13 glass_pic" style="--order: 11">
+                <use xlink:href="#image"/>
+            </g>
+        </g>
+    </g>
+</svg>
